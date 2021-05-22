@@ -34,24 +34,16 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Delivery Pro is another of my personal projects. Delivery Pro(Name still not yet finalized) will be a last-mile delivery assistant. 
+Delivery Pro is another of my personal projects. Delivery Pro(Name still not yet finalized) will be a last-mile delivery assistant.
 
+## The Challenge
 
-## The Challenge:
+Small companies within the sectors of local delivery may not find it financially feasible to develop an entire suite to assist in the delivery of their products.
 
-Small companies within the sectors of local delivery may not find it financially feasible to develop an entire suite to assist in the delivery of their products. 
+## The Solution
 
+Delivery Pro will solve the local delivery problem. It will feature a company dashboard, driver’s application as well as a public API that will enable subscribed companies to integrate their Delivery Pro instance into their existing applications.
 
-## The Solution:
-
-Delivery Pro will solve the local delivery problem. It will feature a company dashboard, driver’s application as well as a public API that will enable subscribed companies to integrate their Delivery Pro instance into their existing applications. 
-
-## The Result:
+## The Result
 
 I am still developing the MVP. Stay updated by visiting this section.
-
-
-
-
-
-
