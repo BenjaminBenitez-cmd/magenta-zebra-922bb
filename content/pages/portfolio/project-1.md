@@ -40,21 +40,10 @@ Amaryllis Belize is a plant nursery that sells its plants through its Facebook s
 
 The company received the majority of its engagement from its Facebook page and store. Now, they needed a way to receive this same attention on Google and other search engines. The created website's contents would have to be editable through a CMS.
 
-
-
 ## The Solution
-
 
 We decided that a captivating landing page and blog would help the company gain more engagement through Google. I choose to use Gatsby JS in order to create a website that is both lightning-fast and SEO-friendly. Finally, I integrated the website with Agility CMS, this enabled content writers to easily edit the contents of the website.
 
-## The Results
+## The Result
 
 This was the first user interface I designed from scratch. So this meant I had to create a design with Adobe XD and then code it. This was worth the work as the resulting UI was unique and elegant in design. The client was really impressed with the website and really liked the design and CMS integration. The webpage and blog will help Amaryllis Belize strengthen its online presence.
-
-
-
-
-
-
-
-
