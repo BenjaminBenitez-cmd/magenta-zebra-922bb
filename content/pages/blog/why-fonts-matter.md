@@ -6,7 +6,7 @@ excerpt: >-
   placerat lorem.
 date: '2021-05-22'
 thumb_image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
-thumb_image_alt: 'A '
+thumb_image_alt: A Smart Bot
 image: images/12.jpg
 image_alt: A pile of books on the table
 seo:
