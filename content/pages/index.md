@@ -30,7 +30,7 @@ sections:
     is_numbered: true
     grid_items:
       - content: "Following the REST architecture results on an API that is flexible.\_\n\n\n"
-        title: RESTful API D
+        title: RESTful API Development
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
