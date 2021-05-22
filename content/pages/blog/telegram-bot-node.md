@@ -15,9 +15,31 @@ layout: post
 thumb_image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
 image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
 ---
-## Lorem ipsum
+I enjoy looking for new technologies to experiment with during my free time, last weekend I stumbled across IBM Watson. It has numerous interesting services, so I thought it would be nice to use it in a project. In this article, I will guide you through the entire process of building a speech-to-text Telegram bot.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### Here is a table with our sections:
 
-- Lorem ipsum
-- dolor sit amet
+*   Set up your bot with the BotFather
+
+*   Get your Watson API key
+
+*   Set up environment
+
+*   Set up the convert.js file
+
+*   Create the bot.js file
+
+*   Run your bot
+
+### Set up your bot with the BotFather:
+
+Creating our Telegram bot is very simple, first, navigate to the [BotFather](https://t.me/botfather) and start a chat to get your API key.
+
+After creating a new bot, the bot father will prompt you to enter a name and a username. After entering the credentials, you will be provided with your access token, save this token for later.
+
+
+**Keep your secrets safe
+**
+Please keep your keys safe, as anyone who has access to them can use them. For this reason, we will create a dotenv file to store them. Ensure to add the file to your **.gitignore** file.
+
+### &#xA;&#xA;&#xA;
