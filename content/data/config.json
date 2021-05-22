@@ -43,13 +43,6 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
                 "label": "Github",
                 "url": "https://github.com/BenjaminBenitez-cmd",
                 "style": "icon",
