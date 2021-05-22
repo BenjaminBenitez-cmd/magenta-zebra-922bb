@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What I Do
-    subtitle: An optional subtitle of the section
+    subtitle: These are some of the services I offer
     col_number: two
     is_numbered: true
     grid_items:
