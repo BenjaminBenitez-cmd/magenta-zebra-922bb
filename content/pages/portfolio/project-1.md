@@ -1,6 +1,6 @@
 ---
 title: Amaryllis Belize
-subtitle: Optional Project Subtitle
+subtitle: An F-Commerce Plant Nursery
 date: '2021-03-10'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
