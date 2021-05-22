@@ -11,8 +11,8 @@ image_alt: A pile of books on the table
 seo:
   title: Build a Telegram Bot with Node js
   description: >-
-    Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-    primis
+    In this guide, I will guide you on how to build a speech-to-text bot with
+    Node JS and IBM Watson.
   extra:
     - name: 'og:type'
       value: article
