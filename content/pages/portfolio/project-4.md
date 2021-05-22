@@ -1,6 +1,6 @@
 ---
 title: Delivery Pro
-subtitle: Optional Project Subtitle
+subtitle: A last-mile delivery assistant
 date: '2019-02-26'
 thumb_image: images/4_thumb.jpg
 thumb_image_alt: A table tennis racket on a pink background
