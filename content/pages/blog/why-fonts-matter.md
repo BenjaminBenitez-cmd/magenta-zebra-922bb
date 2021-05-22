@@ -35,8 +35,8 @@ seo:
       value: Why Fonts Matter
     - name: 'twitter:description'
       value: >-
-        Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-        primis
+        In this guide, I will guide you on how to build a speech-to-text bot
+        with Node JS and IBM Watson.
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
