@@ -1,7 +1,7 @@
 ---
 title: EJB Electric
 subtitle: Optional Project Subtitle
-date: '2019-04-30'
+date: '2020-12-30'
 thumb_image: images/2_thumb.jpg
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
