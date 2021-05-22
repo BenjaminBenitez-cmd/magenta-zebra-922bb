@@ -3,7 +3,7 @@ title: lorem-ipsum
 subtitle: lorem-ipsum
 date: '2021-05-22'
 thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+image_alt: A Bot
 excerpt: lorem-ipsum
 seo:
   title: ''
