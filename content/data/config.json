@@ -70,7 +70,8 @@
                 "icon": "linkedin",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "bbeni"
     },
     "domain": "https://magenta-zebra-922bb.netlify.app"
 }
