@@ -31,11 +31,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+I am Benjamin Benitez, a developer living in the country of Belize. Building things have fascinated me since my early days. I enjoy the process of organizing requirements to create solutions.  This is why I enjoy web development, I get to turn business processes into working applications. My education includes an associate’s degree in Computer Science. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+I am currently interested in web development frameworks and technologies. My current technology stack is the PERN(PostgreSQL, Express, React, and Node Js) stack. Whenever I am not coding I enjoy learning new things, spending time with family, and listening to music.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+**
