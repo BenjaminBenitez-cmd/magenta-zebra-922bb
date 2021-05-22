@@ -31,8 +31,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-I am Benjamin Benitez, a developer living in the country of Belize. Building things have fascinated me since my early days. I enjoy the process of organizing requirements to create solutions.  This is why I enjoy web development, I get to turn business processes into working applications. My education includes an associate’s degree in Computer Science. 
+I am Benjamin Benitez, a developer living in the country of Belize. Building things have fascinated me since my early days. I enjoy the process of organizing requirements to create solutions.  This is why I enjoy web development, I get to turn business processes into working applications. My education includes an associate’s degree in Computer Science.
 
 I am currently interested in web development frameworks and technologies. My current technology stack is the PERN(PostgreSQL, Express, React, and Node Js) stack. Whenever I am not coding I enjoy learning new things, spending time with family, and listening to music.
-
-**
