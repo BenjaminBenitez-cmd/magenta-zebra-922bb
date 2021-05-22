@@ -45,7 +45,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: 'Tips, news and Tutorials'
+    subtitle: 'Tips, news and tutorials'
     posts_number: 3
     col_number: three
     actions:
