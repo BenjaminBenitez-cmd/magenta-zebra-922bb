@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
+image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
 ---
 ## Lorem ipsum
 
