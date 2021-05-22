@@ -1,9 +1,11 @@
 ---
 title: Build A Telegram Bot With Node JS
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+  I enjoy looking for new technologies to experiment with during my free time,
+  last weekend I stumbled across IBM Watson. It has numerous interesting
+  services, so I thought it would be nice to use it in a project. In this
+  article, I will guide you through the entire process of building a
+  speech-to-text Telegram bot.
 date: '2021-05-22'
 thumb_image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
 thumb_image_alt: A Smart Bot
