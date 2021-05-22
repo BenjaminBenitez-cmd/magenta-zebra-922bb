@@ -36,7 +36,7 @@ sections:
           Turning UI/UX designs into working products.
 
 
-      - title: Service Title
+      - title: Deployment
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
