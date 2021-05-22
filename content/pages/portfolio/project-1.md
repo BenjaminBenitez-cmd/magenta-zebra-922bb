@@ -34,11 +34,27 @@ seo:
       relativeUrl: true
 layout: project
 ---
+Amaryllis Belize is a plant nursery that sells its plants through its Facebook store. They deliver and ship their plants throughout the country of Belize.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+## The Challenge
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+The company received the majority of its engagement from its Facebook page and store. Now, they needed a way to receive this same attention on Google and other search engines. The created website's contents would have to be editable through a CMS.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+
+## The Solution
+
+
+We decided that a captivating landing page and blog would help the company gain more engagement through Google. I choose to use Gatsby JS in order to create a website that is both lightning-fast and SEO-friendly. Finally, I integrated the website with Agility CMS, this enabled content writers to easily edit the contents of the website.
+
+## The Results
+
+This was the first user interface I designed from scratch. So this meant I had to create a design with Adobe XD and then code it. This was worth the work as the resulting UI was unique and elegant in design. The client was really impressed with the website and really liked the design and CMS integration. The webpage and blog will help Amaryllis Belize strengthen its online presence.
+
+
+
+
+
+
+
+
