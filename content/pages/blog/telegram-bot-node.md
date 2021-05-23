@@ -247,6 +247,6 @@ try {
 
     return ctx.reply(message);
 
-  } catch (err) {
+} catch (err) {
     ctx.reply('Opps an error occured');
-  }
+}
