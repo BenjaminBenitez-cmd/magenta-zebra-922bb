@@ -232,3 +232,5 @@ Here, we create a new instance of the Telegraf bot. Any requests we send will be
     })
 ```
 
+The on handler receives an event and a callback, the callback will run when an event triggers. Upon receiving a message, we assign our voice message’s file_id into a variable that we can use later. Now, we create a try and catch block that will contain our asynchronous code.
+
