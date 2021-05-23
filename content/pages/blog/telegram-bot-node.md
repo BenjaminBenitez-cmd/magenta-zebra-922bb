@@ -37,8 +37,9 @@ Creating our Telegram bot is very simple, first, navigate to the [BotFather](ht
 
 After creating a new bot, the bot father will prompt you to enter a name and a username. After entering the credentials, you will be provided with your access token, save this token for later.
 
-\*\*Keep your secrets safe
-\*\*Please keep your keys safe, as anyone who has access to them can use them. For this reason, we will create a **.env** file to store them. Ensure to add the file to your **.gitignore** file.
+**Keep your secrets safe **
+
+Please keep your keys safe, as anyone who has access to them can use them. For this reason, we will create a **.env** file to store them. Ensure to add the file to your **.gitignore** file.
 
 ###
 
@@ -261,12 +262,9 @@ console.log('Telegram bot is running...');
 
 Open your terminal and run node bot.js, then send the bot a voice message, our bot is now transcribing our messages.
 
-
 ```
 $ node bot.js
 
 ```
+
 Congratulations, you have created your Telegram bot! If you want, you can deploy it over at Heroku or use an always-on repl.it to host it. The bot we created is only scratching the surface of the fantastic things we can do with Watson and Telegram. Go over the documentation and experiment, challenge yourself by expanding upon this project.
-
-
-
