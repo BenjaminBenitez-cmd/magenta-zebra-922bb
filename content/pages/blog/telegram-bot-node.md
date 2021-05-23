@@ -139,7 +139,3 @@ const speechToText = new SpeechToTextV1({
 
 ```
 
-```
-
-Here we import the 
-```
