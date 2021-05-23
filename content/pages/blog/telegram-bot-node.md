@@ -64,7 +64,16 @@ Now that we have our access token and API key, we can begin coding our bot. Letâ
 $ mkdir telegram-bot && cd telegram-bot
 $ npm init -y
 
+```
+
 Then, head over to your terminal and create the following files.
+
+
+```
+
+
+
+
 
 
 
