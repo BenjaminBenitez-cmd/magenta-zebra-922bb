@@ -4,7 +4,7 @@ subtitle: A collection of my most recent work
 layout_style: mosaic
 seo:
   title: Portfolio
-  description: This is the portfolio page
+  description: A collection of my most recent work
   extra:
     - name: 'og:type'
       value: website
