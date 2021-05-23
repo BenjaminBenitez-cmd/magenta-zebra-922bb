@@ -127,7 +127,6 @@ module.exports = getText;
 
 ```
 
-const SpeechToTextV1 = require('ibm-watson/speech-to-text/v1');
-const { IamAuthenticator } = require('ibm-watson/auth');
-require('dotenv').config();
-
+    const SpeechToTextV1 = require('ibm-watson/speech-to-text/v1');
+    const { IamAuthenticator } = require('ibm-watson/auth');
+    require('dotenv').config();
