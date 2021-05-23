@@ -54,7 +54,7 @@ sections:
         style: button
 seo:
   title: bbenitez.tech
-  description: The preview of the Exto theme
+  description: 'Hi, I am Benjamin Benitez a full-stack developer.'
   extra:
     - name: 'og:type'
       value: website
