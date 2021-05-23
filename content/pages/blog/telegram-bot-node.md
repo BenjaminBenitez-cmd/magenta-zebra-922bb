@@ -94,9 +94,9 @@ You can name your secrets whatever you would like. Replace the brackets with you
 
 I'll copy the code for the convert.js and explain each step below.
 
-const SpeechToTextV1 = require('ibm-watson/speech-to-text/v1');
-const { IamAuthenticator } = require('ibm-watson/auth');
-require('dotenv').config();
+    const SpeechToTextV1 = require('ibm-watson/speech-to-text/v1');
+    const { IamAuthenticator } = require('ibm-watson/auth');
+    require('dotenv').config();
 
 const speechToText = new SpeechToTextV1({
 authenticator: new IamAuthenticator({ apikey: process.env.IBM_API }),
