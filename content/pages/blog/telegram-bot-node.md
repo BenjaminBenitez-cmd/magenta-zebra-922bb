@@ -210,3 +210,8 @@ console.log('Telegram bot is running...');
 ```
 
 ```
+const { Telegraf } = require('telegraf');
+const axios = require('axios');
+const getText = require('./convert');
+
+```
