@@ -40,7 +40,9 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact
-  description: This is the contact page
+  description: >-
+    Hi there! Do you have an idea or need help?. Please fill the contact form
+    below or send me an email at  benjamin@bbenitez.tech.
   extra:
     - name: 'og:type'
       value: website
