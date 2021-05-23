@@ -252,10 +252,24 @@ try {
 
 ```
 
-We can access our particular voice file by using the **getFileLink **function, which will return an object with the file URL. Then, we fetch the file using an Axios request; upon receiving the file we will pass our data into our getText function as an argument. We then wait for the promise to resolve with our translation, upon receiving the translation, we will send the translation results to our user.
+We can access our particular voice file by using the \*\*getFileLink \*\*function, which will return an object with the file URL. Then, we fetch the file using an Axios request; upon receiving the file we will pass our data into our getText function as an argument. We then wait for the promise to resolve with our translation, upon receiving the translation, we will send the translation results to our user.
 
 bot.launch();
 console.log('Telegram bot is running...');
 
 ## Run your bot
 
+Open your terminal and run node bot.js, then send the bot a voice message, our bot is now transcribing our messages.
+
+
+```
+$ node bot.js
+
+```
+
+```
+Congratulations, you have created your Telegram bot! If you want, you can deploy it over at Heroku or use an always-on repl.it to host it. The bot we created is only scratching the surface of the fantastic things we can do with Watson and Telegram. Go over the documentation and experiment, challenge yourself by expanding upon this project.
+
+
+
+```
