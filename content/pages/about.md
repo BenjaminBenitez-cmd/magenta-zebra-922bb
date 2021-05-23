@@ -14,7 +14,7 @@ seo:
       value: About Us
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Learn more about my interests and what I enjoy doing.
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
