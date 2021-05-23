@@ -164,15 +164,7 @@ The **getText** function will be responsible for sending our request to transcri
         .catch(err => {
           reject(err);
         });
-      })
+    })
 
 ```
-
-
-
-
-
-
-
-
 ```
