@@ -60,4 +60,5 @@ Now we are ready to start coding our bot!
 
 Now that we have our access token and API key, we can begin coding our bot. Let’s start by heading to our terminal and creating a folder named telegram-bot. Use npm init -y to create your package.json file.
 
-    mkdir telegram-bot && cd telegram-bot
+    $ mkdir telegram-bot && cd telegram-bot
+    $ npm init -y
