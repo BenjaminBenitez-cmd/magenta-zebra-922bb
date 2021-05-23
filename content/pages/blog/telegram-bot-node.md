@@ -37,13 +37,12 @@ Creating our Telegram bot is very simple, first, navigate to the [BotFather](ht
 
 After creating a new bot, the bot father will prompt you to enter a name and a username. After entering the credentials, you will be provided with your access token, save this token for later.
 
-**Keep your secrets safe
-**Please keep your keys safe, as anyone who has access to them can use them. For this reason, we will create a **.env** file to store them. Ensure to add the file to your **.gitignore** file.
+\*\*Keep your secrets safe
+\*\*Please keep your keys safe, as anyone who has access to them can use them. For this reason, we will create a **.env** file to store them. Ensure to add the file to your **.gitignore** file.
 
 ###
 
 ## Get your IBM API Key
-
 
 We will use its speech-to-text API. Head over to [ibm watson](https://www.ibm.com/watson) and create an account if you don't have one.
 
@@ -60,11 +59,3 @@ Now we are ready to start coding our bot!
 ## &#xA;Environment set up:
 
 Now that we have our access token and API key, we can begin coding our bot. Let’s start by heading to our terminal and creating a folder named telegram-bot. Use npm init -y to create your package.json file.
-
-
-
-
-
-
-
-
