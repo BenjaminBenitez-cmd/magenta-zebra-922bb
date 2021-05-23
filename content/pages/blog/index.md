@@ -28,5 +28,6 @@ seo:
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
+  description: 'Tips, news and tutorials'
 layout: blog
 ---
