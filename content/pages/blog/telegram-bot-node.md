@@ -137,14 +137,4 @@ const speechToText = new SpeechToTextV1({
   serviceUrl: 'https://api.us-south.speech-to-text.watson.cloud.ibm.com'
 });
 
-
-```
-
-```
-
-
-
-
-
-
 ```
