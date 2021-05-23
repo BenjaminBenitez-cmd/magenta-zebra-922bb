@@ -14,7 +14,9 @@ seo:
       value: About Us
       keyName: property
     - name: 'og:description'
-      value: Learn more about my interests and what I enjoy doing.
+      value: >-
+        I am Benjamin Benitez, a developer living in the country of Belize.
+        Building things have fascinated me since my early days.
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
