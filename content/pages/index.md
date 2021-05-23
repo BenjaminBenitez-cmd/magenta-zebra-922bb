@@ -53,7 +53,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
+  title: bbenitez.tech
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
