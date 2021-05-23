@@ -68,7 +68,11 @@ $ npm init -y
 
 Then, head over to your terminal and create the following files.
 
+    $ touch bot.js convert.js .env
 
+
+
+Our bot.js file will contain the logic to handle requests to our bot. Our convert.js file will handle the function that will call on the IBM speech-to-text API. Finally, we will keep our secrets in the .env file.
 
 
 
