@@ -207,11 +207,11 @@ bot.on('voice',  async ctx => {
 
 
 
-bot.launch();
-console.log('Telegram bot is running...');
+
 
 ```
-
+bot.launch();
+console.log('Telegram bot is running...');
 ```
 
 const { Telegraf } = require('telegraf');
