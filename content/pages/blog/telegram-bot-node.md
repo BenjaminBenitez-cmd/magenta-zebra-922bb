@@ -8,7 +8,9 @@ excerpt: >-
   Telegram bot.
 seo:
   title: Build a Telegram Bot with Node js
-  description: ''
+  description: >-
+    I will guide you through the entire process of building a speech-to-text
+    Telegram bot.
   robots: []
   extra: []
   type: stackbit_page_meta
