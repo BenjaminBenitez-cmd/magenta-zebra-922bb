@@ -165,6 +165,3 @@ The **getText** function will be responsible for sending our request to transcri
           reject(err);
         });
     })
-
-```
-```
