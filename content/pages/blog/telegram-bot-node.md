@@ -125,19 +125,4 @@ const speechToText = new SpeechToTextV1({
 
 module.exports = getText;
 
-
-```
-
-const SpeechToTextV1 = require('ibm-watson/speech-to-text/v1');
-const { IamAuthenticator } = require('ibm-watson/auth');
-require('dotenv').config();
-
-const speechToText = new SpeechToTextV1({
-authenticator: new IamAuthenticator({ apikey: process.env.IBM_API }),
-serviceUrl: 'https://api.us-south.speech-to-text.watson.cloud.ibm.com'
-});
-
-```
-
-
 ```
