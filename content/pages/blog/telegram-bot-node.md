@@ -236,12 +236,12 @@ The on handler receives an event and a callback, the callback will run when an e
 
 ```
 try {
-    const { href } = await ctx.telegram.getFileLink(fileID)
-    const audio = await axios({
-      url: href,
-      method: 'GET',
-      responseType: 'stream'
-      });
+  const { href } = await ctx.telegram.getFileLink(fileID)
+  const audio = await axios({
+    url: href,
+    method: 'GET',
+    responseType: 'stream'
+  });
 
   const message = await getText(audio.data);
 
