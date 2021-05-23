@@ -170,33 +170,41 @@ The **getText** function will be responsible for sending our request to transcri
 
 I'll copy the code for the bot.js and explain each step below.
 
-    //import necessary libraries
+//import necessary libraries
+const { Telegraf } = require('telegraf');
+const axios = require('axios');const getText = require('./convert');
+
+require('dotenv').config();
+
+//create new instance of telegrafconst bot = new Telegraf(process.env.TELEGRAM_ACCESS_TOKEN);
+
+bot.on('voice',  async ctx => {
+  //assign the file id to a variable
+  const fileID = ctx.message.voice.file_id;
+    //receive url and pass it into axios request
+  try {
+    const { href } = await ctx.telegram.getFileLink(fileID)
+    const audio = await axios({
+      url: href,
+      method: 'GET',
+      responseType: 'stream'
+      });
+
+    const message = await getText(audio.data);
+
+    return ctx.reply(message);
+
+  } catch (err) {
+    ctx.reply('Opps an error occured');
+  }})
+
+
+bot.launch();console.log('Telegram bot is running...');
+
+
     const { Telegraf } = require('telegraf');
-    const axios = require('axios');const getText = require('./convert');
+    const axios = require('axios');
+    const getText = require('./convert');
 
-    require('dotenv').config();
-
-    //create new instance of telegrafconst bot = new Telegraf(process.env.TELEGRAM_ACCESS_TOKEN);
-
-    bot.on('voice',  async ctx => {
-      //assign the file id to a variable
-      const fileID = ctx.message.voice.file_id;
-        //receive url and pass it into axios request
-      try {
-        const { href } = await ctx.telegram.getFileLink(fileID)
-        const audio = await axios({
-          url: href,
-          method: 'GET',
-          responseType: 'stream'
-          });
-
-        const message = await getText(audio.data);
-
-        return ctx.reply(message);
-
-      } catch (err) {
-        ctx.reply('Opps an error occured');
-      }})
-
-
-    bot.launch();console.log('Telegram bot is running...');
+```
+```
