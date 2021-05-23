@@ -69,13 +69,6 @@ $ npm init -y
 Then, head over to your terminal and create the following files.
 
 
-```
 
 
 
-
-
-
-
-
-```
