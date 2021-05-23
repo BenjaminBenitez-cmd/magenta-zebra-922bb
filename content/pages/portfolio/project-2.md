@@ -2,7 +2,7 @@
 title: EJB Electric
 subtitle: A Residential and Commercial Maintenance Company
 date: '2020-12-24'
-thumb_image: images/2_thumb.jpg
+thumb_image: /images/03- Browser Mockup.jpg
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
