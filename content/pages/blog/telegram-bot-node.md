@@ -125,21 +125,4 @@ const speechToText = new SpeechToTextV1({
 
 module.exports = getText;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-
-```
 ```
