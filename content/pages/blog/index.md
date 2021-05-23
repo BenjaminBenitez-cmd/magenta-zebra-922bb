@@ -13,7 +13,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: 'Tips, news and tutorials.'
       keyName: property
     - name: 'og:image'
       value: images/12.jpg
