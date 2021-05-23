@@ -58,6 +58,8 @@ seo:
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        Hi there! Do you have an idea or need help?. Please fill the contact
+        form below or send me an email at  benjamin@bbenitez.tech.
 layout: advanced
 ---
