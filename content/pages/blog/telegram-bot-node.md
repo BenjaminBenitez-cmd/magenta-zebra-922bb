@@ -150,4 +150,4 @@ Here we import the **SpeechToTextV1** and **IamAuthenticator** module from t
     //promise
     }
 
-The **getText **function will be responsible for sending our request to transcribe the audio. The params object contains the details about the audio file we will be sending. Since Telegram saves audio files in “oga” format, we will pass “audio/ogg” as our content type. Read more about Watson’s supported audio formats [here](https://cloud.ibm.com/docs/text-to-speech-data?topic=text-to-speech-data-audioFormats).
+The **getText** function will be responsible for sending our request to transcribe the audio. The params object contains the details about the audio file we will be sending. Since Telegram saves audio files in “oga” format, we will pass “audio/ogg” as our content type. Read more about Watson’s supported audio formats [here](https://cloud.ibm.com/docs/text-to-speech-data?topic=text-to-speech-data-audioFormats).
