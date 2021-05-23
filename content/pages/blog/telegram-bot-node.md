@@ -76,8 +76,6 @@ Install dependencies
 
     $ npm install telegraf axios ibm-watson dotenv
 
-
-
 *   Telegraf is a library that simplifies creating Telegram bots, read more its documentation [here](https://telegraf.js.org/).
 
 *   Axios is a library that simplifies making HTTP requests
@@ -89,10 +87,8 @@ Install dependencies
 Add secrets to .env file:
 You can name your secrets whatever you would like. Replace the brackets with your API keys.
 
+```
+TELEGRAM_ACCESS_TOKEN=<Replace with token>
+IBM_API=<Replace with token>
 
-
-    TELEGRAM_ACCESS_TOKEN=<Replace with token>
-    IBM_API=<Replace with token>
-
-
-
+```
