@@ -93,3 +93,8 @@ You can name your secrets whatever you would like. Replace the brackets with you
 ## Our convert.js
 
 I'll copy the code for the convert.js and explain each step below.
+
+    const SpeechToTextV1 = require('ibm-watson/speech-to-text/v1');
+
+```
+```
