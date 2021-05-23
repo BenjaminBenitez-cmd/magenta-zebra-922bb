@@ -63,7 +63,7 @@ seo:
       value: bbenitez.tech
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: 'Hi, I am Benjamin Benitez a full-stack developer.'
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
