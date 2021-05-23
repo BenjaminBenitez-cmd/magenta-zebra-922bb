@@ -101,7 +101,29 @@ require('dotenv').config();
 
 const speechToText = new SpeechToTextV1({
   authenticator: new IamAuthenticator({ apikey: process.env.IBM_API }),
-  serviceUrl: 'https://api.us-south.speech-to-text.watson.cloud.ibm.com'});
+  serviceUrl: 'https://api.us-south.speech-to-text.watson.cloud.ibm.com'
+});
+
+//function for tranlating text with IBM APIfunction getText(audio) {
+  const params = {
+    audio: audio,
+    contentType: 'audio/ogg'
+  };
+  return new Promise((resolve, reject) => {
+    speechToText.recognize(params)
+    .then(response => {
+      const message = response.result.results;
+      if(message.length === 0) {
+          resolve('Please speak louder, unable to translate');
+      }
+      resolve(message[0].alternatives[0].transcript);
+    })
+    .catch(err => {
+      reject(err);
+    });
+  })}
+
+
 
 
 
