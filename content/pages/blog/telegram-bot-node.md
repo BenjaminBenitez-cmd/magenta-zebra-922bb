@@ -252,3 +252,4 @@ try {
 
 ```
 
+We can access our particular voice file by using the getFileLink function, which will return an object with the file URL. Then, we fetch the file using an Axios request; upon receiving the file we will pass our data into our getText function as an argument. We then wait for the promise to resolve with our translation, upon receiving the translation, we will send the translation results to our user.
