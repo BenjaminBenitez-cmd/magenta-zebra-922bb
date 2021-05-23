@@ -141,5 +141,3 @@ const speechToText = new SpeechToTextV1({
 
 Here we import the **SpeechToTextV1** and **IamAuthenticator** module from the Watson SDK. We proceed and initialize a new SpeechToTextV1 instance. Inside we pass into it an object containing our API key and service URL.
 
-
-
