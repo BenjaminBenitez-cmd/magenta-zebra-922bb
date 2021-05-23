@@ -37,7 +37,9 @@ Creating our Telegram bot is very simple, first, navigate to the [BotFather](ht
 
 After creating a new bot, the bot father will prompt you to enter a name and a username. After entering the credentials, you will be provided with your access token, save this token for later.
 
-**Keep your secrets safe **
+**Keep your secrets safe**
+
+
 
 Please keep your keys safe, as anyone who has access to them can use them. For this reason, we will create a **.env** file to store them. Ensure to add the file to your **.gitignore** file.
 
