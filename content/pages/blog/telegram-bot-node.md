@@ -229,9 +229,11 @@ const bot = new Telegraf(process.env.TELEGRAM_ACCESS_TOKEN);
 
 Here, we create a new instance of the Telegraf bot. Any requests we send will be passed into this instance and resolved with our handlers. We are using the on handler method, which listens for any voice clips we send within our conversation. The ctx instance contains the botInfo, update, and Telegram, which we will use to make bot API requests. Read the different handler methods [here](https://telegraf.js.org/classes/composer.html).
 
-    bot.on('voice',  async ctx => {
-    //assign the file id to a variable
-    })
+```
+bot.on('voice',  async ctx => {
+//assign the file id to a variable
+})
+```
 
 The on handler receives an event and a callback, the callback will run when an event triggers. Upon receiving a message, we assign our voice message’s file_id into a variable that we can use later. Now, we create a try and catch block that will contain our asynchronous code.
 
