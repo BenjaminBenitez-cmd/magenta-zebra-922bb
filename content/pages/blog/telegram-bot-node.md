@@ -1,6 +1,5 @@
 ---
 title: Build a Telegram Bot with Node js
-subtitle: lorem-ipsum
 date: '2021-05-22'
 thumb_image_alt: lorem-ipsum
 image_alt: A Bot
