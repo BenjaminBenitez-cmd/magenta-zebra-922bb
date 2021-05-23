@@ -205,8 +205,6 @@ bot.on('voice',  async ctx => {
   }
 })
 
-```
-```
 bot.launch();
 console.log('Telegram bot is running...');
 ```
