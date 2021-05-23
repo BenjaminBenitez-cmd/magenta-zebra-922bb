@@ -4,7 +4,7 @@ subtitle: A Residential and Commercial Maintenance Company
 date: '2020-12-24'
 thumb_image: /images/EJB electric mockup.jpg
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: /images/EJB electric mockup.jpg
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
