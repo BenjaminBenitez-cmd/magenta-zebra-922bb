@@ -74,7 +74,7 @@ seo:
     - name: 'twitter:title'
       value: bbenitez.tech
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: 'Hi, I am Benjamin Benitez a full-stack developer.'
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
