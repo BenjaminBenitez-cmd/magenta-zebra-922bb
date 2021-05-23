@@ -204,4 +204,3 @@ ctx.reply('Opps an error occured');
 bot.launch();
 console.log('Telegram bot is running...');
 
-```
