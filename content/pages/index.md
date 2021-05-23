@@ -60,7 +60,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: bbenitez.tech
       keyName: property
     - name: 'og:description'
       value: The preview of the Exto theme
