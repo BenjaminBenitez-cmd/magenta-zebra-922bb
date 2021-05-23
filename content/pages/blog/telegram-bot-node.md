@@ -1,7 +1,7 @@
 ---
 title: Build a Telegram Bot with Node js
 date: '2021-05-22'
-thumb_image_alt: A bot looking at you
+thumb_image_alt: A bot looking towards you
 image_alt: A Bot
 excerpt: >-
   I will guide you through the entire process of building a speech-to-text
