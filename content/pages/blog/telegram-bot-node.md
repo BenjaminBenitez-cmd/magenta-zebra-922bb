@@ -190,9 +190,9 @@ method: 'GET',
 responseType: 'stream'
 });
 
-    const message = await getText(audio.data);
+const message = await getText(audio.data);
 
-    return ctx.reply(message);
+return ctx.reply(message);
 
 } catch (err) {
 ctx.reply('Opps an error occured');
