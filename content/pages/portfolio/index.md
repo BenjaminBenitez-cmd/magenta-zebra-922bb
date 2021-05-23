@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Portfolio
     - name: 'twitter:description'
-      value: This is the portfolio page
+      value: A collection of my most recent work.
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
