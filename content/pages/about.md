@@ -27,7 +27,9 @@ seo:
     - name: 'twitter:title'
       value: About Me
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        I am Benjamin Benitez, a developer living in the country of Belize.
+        Building things have fascinated me since my early days. 
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
