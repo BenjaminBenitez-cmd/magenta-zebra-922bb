@@ -31,15 +31,40 @@ I enjoy looking for new technologies to experiment with during my free time, las
 
 *   Run your bot
 
-### Set up your bot with the BotFather:
+## Set up your bot with the BotFather
 
 Creating our Telegram bot is very simple, first, navigate to the [BotFather](https://t.me/botfather) and start a chat to get your API key.
 
 After creating a new bot, the bot father will prompt you to enter a name and a username. After entering the credentials, you will be provided with your access token, save this token for later.
 
-
 **Keep your secrets safe
-**
-Please keep your keys safe, as anyone who has access to them can use them. For this reason, we will create a dotenv file to store them. Ensure to add the file to your **.gitignore** file.
+**Please keep your keys safe, as anyone who has access to them can use them. For this reason, we will create a **.env** file to store them. Ensure to add the file to your **.gitignore** file.
 
-### &#xA;&#xA;&#xA;
+###
+
+## Get your IBM API Key
+
+
+We will use its speech-to-text API. Head over to [ibm watson](https://www.ibm.com/watson) and create an account if you don't have one.
+
+Once logged in, sign up for IBM cloud:
+
+Create your IBM cloud account and sign in
+
+Create a new speech-to-text resource.
+
+Navigate to your speech-to-text dashboard and copy your API Key
+
+Now we are ready to start coding our bot!
+
+## &#xA;Environment set up:
+
+Now that we have our access token and API key, we can begin coding our bot. Let’s start by heading to our terminal and creating a folder named telegram-bot. Use npm init -y to create your package.json file.
+
+
+
+
+
+
+
+
