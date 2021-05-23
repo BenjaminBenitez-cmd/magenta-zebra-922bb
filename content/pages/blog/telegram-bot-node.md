@@ -133,7 +133,7 @@ const { IamAuthenticator } = require('ibm-watson/auth');
 require('dotenv').config();
 
 const speechToText = new SpeechToTextV1({
-   authenticator: new IamAuthenticator({ apikey:    process.env.IBM_API }),
+  authenticator: new IamAuthenticator({ apikey:    process.env.IBM_API }),
   serviceUrl: 'https://api.us-south.speech-to-text.watson.cloud.ibm.com'
 });
 
