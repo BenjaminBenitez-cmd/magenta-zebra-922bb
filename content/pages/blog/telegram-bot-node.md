@@ -167,10 +167,7 @@ The **getText** function will be responsible for sending our request to transcri
         });
     })
 
-
-
 Inside our function, we return a promise. Then, we call on the recognize method and pass in our params object as an argument. The recognize method returns a results array. If our results array is empty, we resolve the promise with an error message. If we receive a transcript, we resolve the translation. In the end, we add a catch block in case we have any other errors.
-
 
 ## Our bot.js
 
@@ -258,7 +255,7 @@ try {
 
 ```
 
-We can access our particular voice file by using the \*\*getFileLink \*\*function, which will return an object with the file URL. Then, we fetch the file using an Axios request; upon receiving the file we will pass our data into our getText function as an argument. We then wait for the promise to resolve with our translation, upon receiving the translation, we will send the translation results to our user.
+We can access our particular voice file by using the **getFileLink** function, which will return an object with the file URL. Then, we fetch the file using an Axios request; upon receiving the file we will pass our data into our getText function as an argument. We then wait for the promise to resolve with our translation, upon receiving the translation, we will send the translation results to our user.
 
 bot.launch();
 console.log('Telegram bot is running...');
