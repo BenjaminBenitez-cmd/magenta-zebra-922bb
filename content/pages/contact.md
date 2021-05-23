@@ -49,7 +49,9 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        Hi there! Do you have an idea or need help?. Please fill the contact
+        form below or send me an email at  benjamin@bbenitez.tech.
       keyName: property
     - name: 'twitter:card'
       value: summary
