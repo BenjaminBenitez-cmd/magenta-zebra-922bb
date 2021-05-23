@@ -12,7 +12,11 @@ seo:
     I will guide you through the entire process of building a speech-to-text
     Telegram bot.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /_static/app-assets/images/alex-knight-2EJCSULRwC8-unsplash.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
