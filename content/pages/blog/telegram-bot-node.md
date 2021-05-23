@@ -39,8 +39,6 @@ After creating a new bot, the bot father will prompt you to enter a name and a u
 
 **Keep your secrets safe**
 
-
-
 Please keep your keys safe, as anyone who has access to them can use them. For this reason, we will create a **.env** file to store them. Ensure to add the file to your **.gitignore** file.
 
 ###
@@ -168,6 +166,11 @@ The **getText** function will be responsible for sending our request to transcri
           reject(err);
         });
     })
+
+
+
+Inside our function, we return a promise. Then, we call on the recognize method and pass in our params object as an argument. The recognize method returns a results array. If our results array is empty, we resolve the promise with an error message. If we receive a transcript, we resolve the translation. In the end, we add a catch block in case we have any other errors.
+
 
 ## Our bot.js
 
