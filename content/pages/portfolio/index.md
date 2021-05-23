@@ -13,7 +13,7 @@ seo:
       value: Portfolio
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: A collection of my most recent work.
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
