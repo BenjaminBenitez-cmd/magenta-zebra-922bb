@@ -70,9 +70,11 @@ Create your IBM cloud account and sign in
 
 Create a new speech-to-text resource.
 
-
+![](/\_static/app-assets/images/important-sloth.png)
 
 Navigate to your speech-to-text dashboard and copy your API Key
+
+![](/\_static/app-assets/images/image9.png)
 
 Now we are ready to start coding our bot!
 
@@ -279,6 +281,7 @@ Open your terminal and run node bot.js, then send the bot a voice message, our b
 
 ```
 $ node bot.js
+
 
 ```
 
