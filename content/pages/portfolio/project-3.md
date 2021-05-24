@@ -36,7 +36,7 @@ seo:
         Read on how I went on to create an application ecosystem for on-demand
         car detailing.
     - name: 'twitter:image'
-      value: images/3.jpg
+      value: /_static/app-assets/images/detailer-mockup.jpg
       relativeUrl: true
 layout: project
 ---
