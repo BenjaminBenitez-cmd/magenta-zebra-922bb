@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Project Title 1
     - name: 'twitter:description'
-      value: This is the project 1 description
+      value: 'Learn how I solved Amaryllis Belize''s engagement problems. '
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
