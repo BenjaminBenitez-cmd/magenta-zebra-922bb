@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 1
+      value: Project Amaryllis Belize
       keyName: property
     - name: 'og:description'
       value: 'Learn how I solved Amaryllis Belize''s engagement problems. '
