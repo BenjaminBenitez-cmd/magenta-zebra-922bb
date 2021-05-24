@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 2
+      value: Project EJB Electric
     - name: 'twitter:description'
       value: >-
         Learn how I worked with EJB Electric to create a one-stop location for
