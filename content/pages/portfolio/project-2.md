@@ -8,7 +8,9 @@ image: /images/EJB electric mockup.jpg
 image_alt: An orange on a blue background
 seo:
   title: Project EJB Electric
-  description: Learn how I worked with EJB Electric to create a website that united.
+  description: >-
+    Learn how I worked with EJB Electric to create a one-stop location for all
+    their services.
   extra:
     - name: 'og:type'
       value: website
