@@ -42,6 +42,8 @@ I enjoy looking for new technologies to experiment with during my free time, las
 
 Creating our Telegram bot is very simple, first, navigate to the [BotFather](https://t.me/botfather) and start a chat to get your API key.
 
+![](/\_static/app-assets/images/amazing-tomato.jpg)
+
 After creating a new bot, the bot father will prompt you to enter a name and a username. After entering the credentials, you will be provided with your access token, save this token for later.
 
 **Keep your secrets safe**
@@ -180,41 +182,39 @@ Inside our function, we return a promise. Then, we call on the recognize method 
 
 I'll copy the code for the bot.js and explain each step below.
 
-```
-//import necessary libraries
-const { Telegraf } = require('telegraf');
-const axios = require('axios');
-const getText = require('./convert');
+    //import necessary libraries
+    const { Telegraf } = require('telegraf');
+    const axios = require('axios');
+    const getText = require('./convert');
 
-require('dotenv').config();
+    require('dotenv').config();
 
-//create new instance of telegraf
-const bot = new Telegraf(process.env.TELEGRAM_ACCESS_TOKEN);
+    //create new instance of telegraf
+    const bot = new Telegraf(process.env.TELEGRAM_ACCESS_TOKEN);
 
-bot.on('voice',  async ctx => {
-  //assign the file id to a variable
-  const fileID = ctx.message.voice.file_id;
-    //receive url and pass it into axios request
-  try {
-    const { href } = await ctx.telegram.getFileLink(fileID)
-    const audio = await axios({
-      url: href,
-      method: 'GET',
-      responseType: 'stream'
-      });
+    bot.on('voice',  async ctx => {
+      //assign the file id to a variable
+      const fileID = ctx.message.voice.file_id;
+        //receive url and pass it into axios request
+      try {
+        const { href } = await ctx.telegram.getFileLink(fileID)
+        const audio = await axios({
+          url: href,
+          method: 'GET',
+          responseType: 'stream'
+          });
 
-    const message = await getText(audio.data);
+        const message = await getText(audio.data);
 
-    return ctx.reply(message);
+        return ctx.reply(message);
 
-  } catch (err) {
-    ctx.reply('Opps an error occured');
-  }
-})
+      } catch (err) {
+        ctx.reply('Opps an error occured');
+      }
+    })
 
-bot.launch();
-console.log('Telegram bot is running...');
-```
+    bot.launch();
+    console.log('Telegram bot is running...');
 
 ```
 const { Telegraf } = require('telegraf');
@@ -222,6 +222,7 @@ const axios = require('axios');
 const getText = require('./convert');
 
 ```
+
 First import Telegraf and axios, then the getText function we created earlier.
 
 ```
@@ -231,11 +232,9 @@ const bot = new Telegraf(process.env.TELEGRAM_ACCESS_TOKEN);
 
 Here, we create a new instance of the Telegraf bot. Any requests we send will be passed into this instance and resolved with our handlers. We are using the on handler method, which listens for any voice clips we send within our conversation. The ctx instance contains the botInfo, update, and Telegram, which we will use to make bot API requests. Read the different handler methods [here](https://telegraf.js.org/classes/composer.html).
 
-```
-bot.on('voice',  async ctx => {
-//assign the file id to a variable
-})
-```
+    bot.on('voice',  async ctx => {
+    //assign the file id to a variable
+    })
 
 The on handler receives an event and a callback, the callback will run when an event triggers. Upon receiving a message, we assign our voice message’s file_id into a variable that we can use later. Now, we create a try and catch block that will contain our asynchronous code.
 
@@ -261,10 +260,8 @@ try {
 
 We can access our particular voice file by using the **getFileLink** function, which will return an object with the file URL. Then, we fetch the file using an Axios request; upon receiving the file we will pass our data into our getText function as an argument. We then wait for the promise to resolve with our translation, upon receiving the translation, we will send the translation results to our user.
 
-```
-bot.launch();
-console.log('Telegram bot is running...');
-```
+    bot.launch();
+    console.log('Telegram bot is running...');
 
 ## Run your bot
 
