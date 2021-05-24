@@ -24,7 +24,7 @@ seo:
         all their services.
       keyName: property
     - name: 'og:image'
-      value: images/2.jpg
+      value: /_static/app-assets/images/03-%20Browser%20Mockup.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
