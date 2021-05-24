@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 3
+      value: Project Detailer
     - name: 'twitter:description'
       value: >-
         Read on how I went on to create an application ecosystem for on-demand
