@@ -282,7 +282,6 @@ Open your terminal and run node bot.js, then send the bot a voice message, our b
 ```
 $ node bot.js
 
-
 ```
 
 
