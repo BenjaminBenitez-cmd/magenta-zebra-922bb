@@ -20,7 +20,7 @@ seo:
       value: Learn about my latest project. A last-mile delivery assistant.
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /_static/app-assets/images/delivery-pro2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
