@@ -2,7 +2,7 @@
 title: Detailer
 subtitle: On-demand car detailing
 date: '2020-09-08'
-thumb_image: /images/01- Browser Mockup.jpg
+thumb_image: /images/detailer-mockup.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: /images/01- Browser Mockup.jpg
 image_alt: A yellow retro telephone on a yellow background
