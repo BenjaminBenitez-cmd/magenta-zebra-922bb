@@ -7,7 +7,7 @@ thumb_image_alt: 'White, black, and red shoe sole'
 image: /images/amaryllis-mockup.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
-  title: Amaryllis Belize Project
+  title: Amaryllis Belize
   description: This is the project 1 description
   extra:
     - name: 'og:type'
