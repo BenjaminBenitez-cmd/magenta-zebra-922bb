@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 1
+      value: Project Amaryllis Belize
     - name: 'twitter:description'
       value: 'Learn how I solved Amaryllis Belize''s engagement problems. '
     - name: 'twitter:image'
