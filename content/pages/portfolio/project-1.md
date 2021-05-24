@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: 'Learn how I solved Amaryllis Belize''s engagement problems. '
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: /_static/app-assets/images/curious-hedgehog.jpg
       relativeUrl: true
 layout: project
 ---
