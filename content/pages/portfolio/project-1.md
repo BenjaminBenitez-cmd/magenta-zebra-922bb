@@ -8,7 +8,7 @@ image: /images/amaryllis-mockup.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Amaryllis Belize
-  description: This is the project 1 description
+  description: 'Learn how I solved Amaryllis Belize''s engagement problems. '
   extra:
     - name: 'og:type'
       value: website
