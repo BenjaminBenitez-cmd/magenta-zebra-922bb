@@ -19,7 +19,9 @@ seo:
       value: Project Title 2
       keyName: property
     - name: 'og:description'
-      value: This is the project 2 description
+      value: >-
+        Learn how I worked with EJB Electric to create a one-stop location for
+        all their services.
       keyName: property
     - name: 'og:image'
       value: images/2.jpg
