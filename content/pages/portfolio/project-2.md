@@ -36,7 +36,7 @@ seo:
         Learn how I worked with EJB Electric to create a one-stop location for
         all their services.
     - name: 'twitter:image'
-      value: images/2.jpg
+      value: /_static/app-assets/images/03-%20Browser%20Mockup.jpg
       relativeUrl: true
 layout: project
 ---
