@@ -282,6 +282,7 @@ Open your terminal and run node bot.js, then send the bot a voice message, our b
 ```
 $ node bot.js
 
+
 ```
 
 Congratulations, you have created your Telegram bot! If you want, you can deploy it over at Heroku or use an always-on repl.it to host it. The bot we created is only scratching the surface of the fantastic things we can do with Watson and Telegram. Go over the documentation and experiment, challenge yourself by expanding upon this project.
