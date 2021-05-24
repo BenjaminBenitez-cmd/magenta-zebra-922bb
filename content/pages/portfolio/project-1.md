@@ -2,7 +2,7 @@
 title: Amaryllis Belize
 subtitle: An F-Commerce Plant Nursery
 date: '2021-03-10'
-thumb_image: /images/amaryllis-mockup2.jpg
+thumb_image: /images/amaryllis-mockup3.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: /images/amaryllis-mockup.jpg
 image_alt: 'White, black, and red shoe sole'
