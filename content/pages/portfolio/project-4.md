@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: Learn about my latest project. A last-mile delivery assistant.
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /_static/app-assets/images/delivery-pro2.jpg
       relativeUrl: true
 layout: project
 ---
