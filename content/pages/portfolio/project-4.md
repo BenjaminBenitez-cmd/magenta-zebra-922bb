@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Project Delivery Pro
     - name: 'twitter:description'
-      value: This is the project 4 description
+      value: Learn about my latest project. A last-mile delivery assistant.
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
