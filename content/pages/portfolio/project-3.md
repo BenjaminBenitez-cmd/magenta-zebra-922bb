@@ -24,7 +24,7 @@ seo:
         car detailing.
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: /_static/app-assets/images/oval-giraffe.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
