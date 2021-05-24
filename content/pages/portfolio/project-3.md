@@ -32,7 +32,9 @@ seo:
     - name: 'twitter:title'
       value: Project Title 3
     - name: 'twitter:description'
-      value: This is the project 3 description
+      value: >-
+        Read on how I went on to create an application ecosystem for on-demand
+        car detailing.
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
