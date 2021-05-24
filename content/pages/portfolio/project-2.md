@@ -7,7 +7,7 @@ thumb_image_alt: An orange on a blue background
 image: /images/EJB electric mockup.jpg
 image_alt: An orange on a blue background
 seo:
-  title: Project Title 2
+  title: Project EJB Electric
   description: This is the project 2 description
   extra:
     - name: 'og:type'
