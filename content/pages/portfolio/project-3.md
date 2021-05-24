@@ -8,7 +8,9 @@ image: /images/01- Browser Mockup.jpg
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Detailer
-  description: This is the project 3 description
+  description: >-
+    Read on how I went on to create an application ecosystem for on-demand car
+    detailing.
   extra:
     - name: 'og:type'
       value: website
