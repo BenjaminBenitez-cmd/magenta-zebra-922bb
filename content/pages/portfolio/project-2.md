@@ -32,7 +32,9 @@ seo:
     - name: 'twitter:title'
       value: Project Title 2
     - name: 'twitter:description'
-      value: This is the project 2 description
+      value: >-
+        Learn how I worked with EJB Electric to create a one-stop location for
+        all their services.
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
