@@ -2,7 +2,7 @@
 title: Delivery Pro
 subtitle: A last-mile delivery assistant
 date: '2019-02-26'
-thumb_image: /images/delivery-pro-3mockup.jpg
+thumb_image: /images/smiling-saturn.jpg
 thumb_image_alt: A table tennis racket on a pink background
 image: /images/delivery-pro-mockup.jpg
 image_alt: A table tennis racket on a pink background
