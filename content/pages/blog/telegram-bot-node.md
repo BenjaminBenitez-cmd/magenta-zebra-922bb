@@ -42,9 +42,11 @@ I enjoy looking for new technologies to experiment with during my free time, las
 
 Creating our Telegram bot is very simple, first, navigate to the [BotFather](https://t.me/botfather) and start a chat to get your API key.
 
-![](/\_static/app-assets/images/amazing-tomato.jpg)
+![](/\_static/app-assets/images/energetic-amaranth.jpg)
 
 After creating a new bot, the bot father will prompt you to enter a name and a username. After entering the credentials, you will be provided with your access token, save this token for later.
+
+![](/\_static/app-assets/images/image15.jpg)
 
 **Keep your secrets safe**
 
@@ -55,6 +57,8 @@ Please keep your keys safe, as anyone who has access to them can use them. For t
 ## Get your IBM API Key
 
 We will use its speech-to-text API. Head over to [ibm watson](https://www.ibm.com/watson) and create an account if you don't have one.
+
+![](/\_static/app-assets/images/image4.png)
 
 Once logged in, sign up for IBM cloud:
 
