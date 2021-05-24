@@ -17,7 +17,7 @@ seo:
       value: Project Delivery Pro
       keyName: property
     - name: 'og:description'
-      value: This is the project 4 description
+      value: Learn about my latest project. A last-mile delivery assistant.
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
