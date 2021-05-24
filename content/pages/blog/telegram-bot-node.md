@@ -62,9 +62,15 @@ We will use its speech-to-text API. Head over to [ibm watson](https://www.ibm.co
 
 Once logged in, sign up for IBM cloud:
 
+![](/\_static/app-assets/images/image13.png)
+
 Create your IBM cloud account and sign in
 
+![](/\_static/app-assets/images/image20.png)
+
 Create a new speech-to-text resource.
+
+
 
 Navigate to your speech-to-text dashboard and copy your API Key
 
