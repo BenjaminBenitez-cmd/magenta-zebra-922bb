@@ -2,7 +2,7 @@
 title: Telegram Bot
 subtitle: A Speech-To-Text bot
 date: '2019-01-05'
-thumb_image: images/5_thumb.jpg
+thumb_image: /images/christian-wiediger-GWkioAj5aB4-unsplash.jpg
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
 image_alt: A white gamepad on a green background
