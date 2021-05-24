@@ -19,7 +19,9 @@ seo:
       value: Project Title 3
       keyName: property
     - name: 'og:description'
-      value: This is the project 3 description
+      value: >-
+        Read on how I went on to create an application ecosystem for on-demand
+        car detailing.
       keyName: property
     - name: 'og:image'
       value: images/3.jpg
