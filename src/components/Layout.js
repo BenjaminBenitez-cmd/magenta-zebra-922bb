@@ -68,7 +68,12 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={seoDescription} />
-                    
+                    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+                    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+                    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+                    <link rel="manifest" href="/site.webmanifest">
+                    <meta name="msapplication-TileColor" content="#da532c">
+                    <meta name="theme-color" content="#ffffff">
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
                     <link href="https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i&display=swap" rel="stylesheet" />
