@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Learn about my interests.
-image: images/about.jpg
+image: /images/IMG_20200528_120151.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
