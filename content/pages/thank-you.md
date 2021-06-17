@@ -4,7 +4,7 @@ image: images/thank-you.jpg
 image_alt: Thank You Led Signage
 layout: page
 seo:
-  title: ''
+  title: 'Thank you '
   description: ''
   robots: []
   extra: []
