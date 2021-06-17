@@ -10,6 +10,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 ---
-Thank you for reaching out! We will get back in touch with you soon.
+Thank you for reaching out! I will get back in touch with you soon.
 
 **Have a great day!**
