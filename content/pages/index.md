@@ -5,7 +5,7 @@ sections:
     - section_id: hero
       type: section_hero
       content: >+
-          A Belizean, aspiring software engineer and tech enthusiast. I enjoy building solutions that make life easier.
+          I am an aspiring software engineer, who enjoys building fast and efficient applications.
 
 
       actions:
