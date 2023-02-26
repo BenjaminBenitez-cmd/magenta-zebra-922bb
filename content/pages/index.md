@@ -5,7 +5,7 @@ sections:
     - section_id: hero
       type: section_hero
       content: >+
-          I am an aspiring software engineer, who enjoys building fast and efficient applications.
+          A software developer who enjoys turning code into things that people can use and enjoy. 
 
 
       actions:
