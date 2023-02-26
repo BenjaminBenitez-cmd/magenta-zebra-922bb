@@ -6,7 +6,7 @@ sections:
     type: section_form
     content: >
       Hi there! Do you have an idea or need help?. Please fill the contact form
-      below or send me an email at  benjamin@bbenitez.tech.
+      below.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
